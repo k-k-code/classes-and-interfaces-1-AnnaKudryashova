@@ -8,11 +8,11 @@ public abstract class AbstractHuman extends AbstractArmyUnit{
     /**
      * Уровень здоровья.
      */
-    private short health;
+    public short health;
     /**
      * Уровень брони.
      */
-    private short armor;
+    public short armor;
 
     /**
      * Конструктор.
